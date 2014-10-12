@@ -1,0 +1,70 @@
+
+   .jumbotron {
+		margin-bottom: 0px;
+		background: url(../images/acl2.jpg) 50% 0 fixed;
+	}
+   
+  
+   
+    #intro { 
+			height: auto;  
+			margin: 0 auto; 
+		    width: 100%; 
+		    position: relative; 
+		    background: #CCCCCC;
+		    padding: 100px 0;
+		}
+		
+		
+	#intro .container {
+	background: #FFFFFF;
+	border-radius: 10px;
+	}	
+		#home { 
+			background: url(../images/acl2.jpg) 50% 0 fixed;
+			height: auto;  
+			margin: 0 auto; 
+		    width: 100%; 
+		    position: relative; 
+		    
+		    padding: 200px 0;
+		}
+		
+		#home .col-md-3 {
+		background: white;
+		border-radius: 10px;
+		
+		}
+		
+		
+		
+		#about { 
+			background: url(../images/about.png) 50% 0 fixed; 
+			height: auto;
+			margin: 0 auto; 
+		    width: 100%; 
+		    position: relative; 
+		    padding: 50px 0 50px;
+		    color: #fff;
+		}
+		
+		#home [class*="col-"] {
+    		background: white;
+		}
+
+	footer {
+		background: white;
+		color: black;
+		width: 100%;
+		padding: 10px;
+		border: 2px solid #cccccc;
+	}
+
+	footer p {
+		text-align: center;
+	}
+
+
+
+	
+		 
